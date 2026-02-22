@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #dddddd;
+  padding: 14px;
+  box-shadow: -1px -1px 8px 4px #ddd;
+  margin-bottom: 8px;
+}
